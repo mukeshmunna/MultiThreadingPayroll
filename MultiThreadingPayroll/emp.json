@@ -16,14 +16,14 @@
       "salary": 3000
     },
     {
-      "name": "update",
-      "salary": 5000,
-      "id": 4
-    },
-    {
       "name": "edit",
       "salary": 1000,
       "id": 5
+    },
+    {
+      "name": "a",
+      "salary": 100,
+      "id": 6
     }
   ]
 }
